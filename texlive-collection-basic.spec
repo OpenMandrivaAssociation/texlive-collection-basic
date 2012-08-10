@@ -1,4 +1,4 @@
-# revision 20730
+# revision 26314
 # category Collection
 # catalog-ctan undef
 # catalog-date undef
@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-collection-basic
 Epoch:		1
-Version:	20120224
+Version:	20120810
 Release:	1
 Summary:	Essential programs and files
 Group:		Publishing
@@ -43,7 +43,6 @@ Requires:	texlive-mfware
 Requires:	texlive-misc
 Requires:	texlive-pdftex
 Requires:	texlive-plain
-Requires:	texlive-tcdialog
 Requires:	texlive-tetex
 Requires:	texlive-tex
 Requires:	texlive-texconfig
