@@ -64,3 +64,16 @@ common drivers; no LaTeX.
 %build
 
 %install
+
+
+%changelog
+* Fri Aug 10 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120810-1
++ Revision: 813898
+- Update to latest release.
+
+* Fri Feb 24 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120224-1
++ Revision: 780190
+- Update to latest release.
+- Import texlive-collection-basic
+- Import texlive-collection-basic
+
