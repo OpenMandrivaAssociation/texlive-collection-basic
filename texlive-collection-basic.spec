@@ -1,4 +1,4 @@
-# revision 26314
+# revision 30372
 # category Collection
 # catalog-ctan undef
 # catalog-date undef
@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-collection-basic
 Epoch:		1
-Version:	20120810
+Version:	20131013
 Release:	1
 Summary:	Essential programs and files
 Group:		Publishing
@@ -16,7 +16,6 @@ Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/collection-basic.
 BuildArch:	noarch
 BuildRequires:	texlive-tlpkg
 Requires(pre):	texlive-tlpkg
-Requires:	texlive-collection-documentation-base
 Requires:	texlive-amsfonts
 Requires:	texlive-bibtex
 Requires:	texlive-cm
@@ -46,6 +45,9 @@ Requires:	texlive-plain
 Requires:	texlive-tetex
 Requires:	texlive-tex
 Requires:	texlive-texconfig
+Requires:	texlive-texlive-common
+Requires:	texlive-texlive-docindex
+Requires:	texlive-texlive-en
 Requires:	texlive-texlive-scripts
 Requires:	texlive-xdvi
 
@@ -64,16 +66,3 @@ common drivers; no LaTeX.
 %build
 
 %install
-
-
-%changelog
-* Fri Aug 10 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120810-1
-+ Revision: 813898
-- Update to latest release.
-
-* Fri Feb 24 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120224-1
-+ Revision: 780190
-- Update to latest release.
-- Import texlive-collection-basic
-- Import texlive-collection-basic
-
