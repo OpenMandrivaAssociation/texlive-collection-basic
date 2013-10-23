@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-collection-basic
 Epoch:		1
-Version:	20131013
+Version:	20131022
 Release:	1
 Summary:	Essential programs and files
 Group:		Publishing
@@ -19,7 +19,6 @@ Requires(pre):	texlive-tlpkg
 Requires:	texlive-amsfonts
 Requires:	texlive-bibtex
 Requires:	texlive-cm
-Requires:	texlive-dvipdfm
 Requires:	texlive-dvipdfmx
 Requires:	texlive-dvipdfmx-def
 Requires:	texlive-dvips
