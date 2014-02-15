@@ -1,4 +1,4 @@
-# revision 30372
+# revision 32856
 # category Collection
 # catalog-ctan undef
 # catalog-date undef
@@ -6,8 +6,8 @@
 # catalog-version undef
 Name:		texlive-collection-basic
 Epoch:		1
-Version:	20131022
-Release:	5
+Version:	20140215
+Release:	1
 Summary:	Essential programs and files
 Group:		Publishing
 URL:		http://tug.org/texlive
@@ -31,6 +31,7 @@ Requires:	texlive-hyph-utf8
 Requires:	texlive-hyphen-base
 Requires:	texlive-ifluatex
 Requires:	texlive-ifxetex
+Requires:	texlive-knuth-local
 Requires:	texlive-kpathsea
 Requires:	texlive-lua-alt-getopt
 Requires:	texlive-luatex
