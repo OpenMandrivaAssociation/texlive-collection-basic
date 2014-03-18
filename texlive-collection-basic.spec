@@ -1,4 +1,4 @@
-# revision 32856
+# revision 33040
 # category Collection
 # catalog-ctan undef
 # catalog-date undef
@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-collection-basic
 Epoch:		1
-Version:	20140215
+Version:	20140318
 Release:	1
 Summary:	Essential programs and files
 Group:		Publishing
@@ -31,6 +31,7 @@ Requires:	texlive-hyph-utf8
 Requires:	texlive-hyphen-base
 Requires:	texlive-ifluatex
 Requires:	texlive-ifxetex
+Requires:	texlive-knuth-lib
 Requires:	texlive-knuth-local
 Requires:	texlive-kpathsea
 Requires:	texlive-lua-alt-getopt
@@ -39,7 +40,6 @@ Requires:	texlive-makeindex
 Requires:	texlive-metafont
 Requires:	texlive-mflogo
 Requires:	texlive-mfware
-Requires:	texlive-misc
 Requires:	texlive-pdftex
 Requires:	texlive-plain
 Requires:	texlive-tetex
