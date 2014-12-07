@@ -7,7 +7,7 @@
 Name:		texlive-collection-basic
 Epoch:		1
 Version:	20140318
-Release:	3
+Release:	4
 Summary:	Essential programs and files
 Group:		Publishing
 URL:		http://tug.org/texlive
