@@ -6,8 +6,8 @@
 # catalog-version undef
 Name:		texlive-collection-basic
 Epoch:		1
-Version:	20180303
-Release:	2
+Version:	20181010
+Release:	1
 Summary:	Essential programs and files
 Group:		Publishing
 URL:		http://tug.org/texlive
