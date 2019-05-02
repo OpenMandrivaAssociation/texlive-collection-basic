@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-collection-basic
 Epoch:		1
-Version:	20181010
+Version:	20190311
 Release:	1
 Summary:	Essential programs and files
 Group:		Publishing
